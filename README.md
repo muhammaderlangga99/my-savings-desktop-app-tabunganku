@@ -11,4 +11,5 @@
  desktop based application to manage all your savings records
 
  Welcome to Simple Financial Planner! We are a desktop-based savings application designed to make it easier for you to manage your finances quickly and efficiently. With our intuitive features, you can easily create and manage a savings plan, track expenses and keep an eye on your financial growth.
- 
+
+ ![This is an image](https://github.com/muhammaderlangga99/my-savings-desktop-app-tabunganku/blob/main/image/laptop.png)

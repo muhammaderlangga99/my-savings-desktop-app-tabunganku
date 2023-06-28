@@ -18,12 +18,19 @@
 <br><br>
 ## Let's run this application on your device! 🚀
 steps you have to do to run this application
+#### Import Database
 * Activate your apache web server and mysql database. You can activate this using xampp or other software.
-* Go to phpmyadmin and create a database named **db_tabunganku**
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* Go to phpmyadmin and create a database named **db_tabunganku**.
+* Go into database db_tabungaku and import all tables in this file.
+
+#### Config this application
+* Make sure you have **Netbeans IDE**, click here to download [Netbeans](https://dlcdn.apache.org/netbeans/netbeans-installers/18/Apache-NetBeans-18-bin-windows-x64.exe) and [JDK for windows](https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe).
+* Open this project to your Netbeans IDE.
+* To the toolbar, select **tools > libraries**, and select **Add Jar/Folder**.
+* Browse to this **project path > library** then select **mysql-connector-java-5.1.23-bin**.
+* Go to the project file on the sidebar, right-click on the **libraries** folder, select **add library**, and choose the JAR file that was imported earlier.
+
+#### The app is ready to run!
+* To run, you have to go to the **Source Package > app** and select SignUp.java.
+* (If you are looking for the run button, you can find it in **Toolbar > Run File**).
+  

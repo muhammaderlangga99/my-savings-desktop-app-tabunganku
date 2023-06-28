@@ -37,4 +37,4 @@ steps you have to do to run this application
   
 ## Contributors
 ![my badge](https://badgen.net/static/contributor/muhammaderlangga99/green?icon=github)
-![my badge](https://badgen.net/static/contributor/Anggiet/red)
+![my badge](https://badgen.net/static/contributor/Anggiet-Harjo-Baskoro/red)

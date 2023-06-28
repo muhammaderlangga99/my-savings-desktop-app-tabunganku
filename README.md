@@ -35,3 +35,6 @@ steps you have to do to run this application
 * To run, you have to go to the **Source Package > app** and select SignUp.java.
 * (If you are looking for the run button, you can find it in **Toolbar > Run File**).
   
+## Contributors
+![my badge](https://badgen.net/static/contributor/muhammaderlangga99/green?icon=github)
+![my badge](https://badgen.net/static/contributor/Anggiet/red)
